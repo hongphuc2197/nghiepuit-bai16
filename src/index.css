@@ -12,3 +12,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+i.fas.fa-times.close {
+  margin-top: -21px;
+  margin-right: -3px;
+}
